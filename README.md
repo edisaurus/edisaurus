@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ### GitHub Stats
 Watch mine eaten by a snake 
 
-![snake gif](https://github.com/edisaurus/edisaurus/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/edisaurus/EdsUlalan/blob/output/github-contribution-grid-snake.gif)
 
