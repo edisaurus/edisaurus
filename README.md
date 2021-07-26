@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Eds, software developer & web enthusiast 
-<hr>
 <!--
 **edisaurus/edisaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
