@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-Watch mine eaten by a snake 
+
+[![Eds' GitHub stats](https://github-readme-stats.vercel.app/api?username=edisaurus)](https://github.com/edisaurus/github-readme-stats)
+
+
+## A snake is eating my contributions 
 
 ![snake gif](https://github.com/edisaurus/edisaurus/blob/output/github-contribution-grid-snake.gif)
 
