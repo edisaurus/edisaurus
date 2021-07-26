@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![Eds' GitHub stats](https://github-readme-stats.vercel.app/api?username=edisaurus)](https://github.com/edisaurus/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edisaurus&layout=compact)](https://github.com/edisaurus/github-readme-stats)
 
 ## A snake is eating my contributions 😱 🐍
 
